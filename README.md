@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @happydll
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Bash
+- 🌱 I’m currently learning Java and Bash script
 - 💞️ I don't want to collaborate with no one
 - 📫 How to reach me ibrahimyasininan@gmail.com
