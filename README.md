@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @happydll
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning C# and Bash script
-- 💞️ I don't want to collaborate with no one
+- 👋 Hi, I’m Ibrahim Yasin Inan.
+- 👀 I’m interested in software projects.
+- 🌱 I’m currently learning C#.
 - 📫 How to reach me ibrahimyasininan@gmail.com
