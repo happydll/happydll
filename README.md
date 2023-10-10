@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ibrahim Yasin Inan.
 - 👀 I’m interested in software projects.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning .Net Core.
 - 📫 How to reach me ibrahimyasininan@gmail.com
