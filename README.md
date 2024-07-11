@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ibrahim Yasin Inan.
 - 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Bash Scrpit and Java. In addition to these programming languages, ı'm also preparing to e-JPT from E-Learn Security.
 - 📫 How to reach me ibrahimyasininan@gmail.com
 - 📝 My blog address https://medium.com/@happydll
